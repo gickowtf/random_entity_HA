@@ -6,6 +6,7 @@ from homeassistant.helpers.entity import Entity
 DOMAIN = "random_entity"
 _LOGGER = logging.getLogger(__name__)
 
+
 def setup_platform(hass, config, add_entities, discovery_info=None):
     name = config.get('name', 'random_entity')
     chance = config.get('chance', 50)
