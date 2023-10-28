@@ -1,11 +1,11 @@
 {
   "domain": "random_entity",
   "name": "Random Entity",
-  "documentation": "https://github.com/gickowtf/random_entity_HA",
-  "dependencies": [],
-  "codeowners": ["gickowtf"],
-  "requirements": [],
-  "iot_class": "local_polling",
+  "codeowners": ["@gickowtf"],
   "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/gickowtf/random_entity_HA",
+  "iot_class": "local_polling",
+  "requirements": [],
   "version": "0.1.0"
 }
