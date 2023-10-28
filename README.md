@@ -3,6 +3,7 @@
 ![python badge](https://img.shields.io/badge/Made%20with-Python-orange)
 ![last commit](https://img.shields.io/github/last-commit/gickowtf/random_entity_HA?color=red)
 ![](https://img.shields.io/badge/dynamic/json?color=41BDF5&logo=home-assistant&label=installs&suffix=%20installs&cacheSeconds=15600&url=https://analytics.home-assistant.io/custom_integrations.json&query=$.random_entity.total)
+
 Random Entity for Home Assistant HACS
 
 It is a simple integration that outputs entities with the random state **on** or **off**.
