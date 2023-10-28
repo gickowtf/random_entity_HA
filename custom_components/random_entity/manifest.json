@@ -3,7 +3,7 @@
   "name": "Random Entity",
   "documentation": "https://github.com/gickowtf/random_entity_HA",
   "dependencies": [],
-  "codeowners": ["gickowtf"],
+  "codeowners": ["@gickowtf"],
   "requirements": [],
   "iot_class": "local_polling",
   "config_flow": false,
