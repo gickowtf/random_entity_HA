@@ -28,6 +28,14 @@ sensor:
 | scan_interval    | The time interval, expressed in seconds, between successive checks or polls of the entity's state. For instance, a scan_interval of 15 means that the entity's state will be updated every 15 seconds.|
 
 
+# Installation
+
+1. Install this integration with HACS (adding repository required), or copy the contents of this
+repository into the `custom_components/random_entity` directory.
+2. Restart Home Assistant.
+
+Now edit your configuration.yaml
+
 # License
 
 ![github licence](https://img.shields.io/badge/Licence-MIT-orange)
