@@ -1,1 +1,1 @@
-"""Random Entity for Home Assistant Version 0.2.0"""
+"""Random Entity for Home Assistant"""
