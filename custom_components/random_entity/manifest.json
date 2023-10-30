@@ -7,5 +7,5 @@
   "iot_class": "assumed_state",
   "issue_tracker": "https://github.com/gickowtf/random_entity_HA/issues",
   "requirements": [],
-  "version": "0.3.0"
+  "version": "0.3.1"
 }
